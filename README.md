@@ -48,8 +48,8 @@
 
 ```bash
 # Clone & Install (Python 3.8+)
-git clone https://github.com/franciscojgonzalezfernandez-lgtm/automatic-trading-algorithm.git
-cd automatic-trading-algorithm
+git clone https://github.com/franciscojgonzalezfernandez-lgtm/realtime-crypto-bot-python-flask-gcp.git
+cd realtime-crypto-bot-python-flask-gcp
 
 # Install dependencies
 pip install -r requirements.txt
